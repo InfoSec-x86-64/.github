@@ -4,8 +4,7 @@
 
 
 
-🙋‍♀️ A short introduction 
-  - A team of enthusiastic computer science undergrads living their dreams of managing a org on github
+🙋‍♀️ We are a team of enthusiastic computer science undergrads living on this github repo
     
 🌈 Contribution guidelines 
   - If you are willing to join the community, contact @anorak001
