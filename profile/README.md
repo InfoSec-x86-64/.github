@@ -1,12 +1,16 @@
 ## Hi there 👋
 
-<!--
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+
+🙋‍♀️ A short introduction 
+  - A team of enthusiastic computer science undergrads living their dreams of managing a org on github
+    
+🌈 Contribution guidelines 
+  - If you are willing to join the community, contact @anorak001
+  - If you are willing to contribute on a certain program,dont hesitate to ask it out.
+  - collaborations are always welcome
+
+
+
